@@ -1,6 +1,6 @@
 # M5Stack Library
 
-Modified M5stack for the St7735 1.8 TFT display
+Modified M5stack for the St7735 1.8 TFT display....
 Work in progress!!!
 
 ### Download Library
